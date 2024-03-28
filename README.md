@@ -1,0 +1,6 @@
+- Um usuário deve ser capaz de entrar no sistema como Diretor ou Instrutor.
+- O Diretor sendo administrador e o Instrutor sendo um usuário comum.
+- O Diretor deve ser capaz de manipular os demais usuários (instrutores) (CRUD).
+- O Instrutor deve ser capaz de registrar, atualizar e desativar um aluno.
+- O Instrutor deve ser capaz de atribuir uma aula de musculação para um aluno.
+- O Instrutor deve ser capaz de atribuir uma aula de dança para um aluno.
