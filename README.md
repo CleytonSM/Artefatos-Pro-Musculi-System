@@ -5,4 +5,6 @@
 - O Instrutor deve ser capaz de atribuir uma aula de musculação para um aluno.
 - O Instrutor deve ser capaz de atribuir uma aula de dança para um aluno.
 - O Cliente deve estar associado a um plano de academia
+- O Plano de academia pode conter vários clientes
+- O Cliente pode trocar de plano
 - O Histórico de pagamento deve conter o cliente que pagou e o plano que está associado
