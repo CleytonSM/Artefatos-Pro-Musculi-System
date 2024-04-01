@@ -1,4 +1,3 @@
-![1234534](https://github.com/CleytonSM/Artefatos-Pro-Musculi-System/assets/122110138/ee647502-a97f-4d02-aae3-11b87b7d27c4)
 ![image](https://github.com/CleytonSM/Artefatos-Pro-Musculi-System/assets/122110138/f2ca9aba-0add-4393-9ab7-8106150ed0b2)
 ![image](https://github.com/CleytonSM/Artefatos-Pro-Musculi-System/assets/122110138/cc2903e4-1729-49af-81d4-9b969280e8c9)
 ![image](https://github.com/CleytonSM/Artefatos-Pro-Musculi-System/assets/122110138/7b972918-9b32-47db-8857-c8407c37b4f9)
