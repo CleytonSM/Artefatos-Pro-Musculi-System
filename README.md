@@ -8,4 +8,5 @@
 - O Plano de academia pode conter vários clientes
 - O Cliente pode trocar de plano
 - O Histórico de pagamento deve conter o cliente que pagou e o plano que está associado
- 
+- A Aula de Dança só começa caso o horário selecionado esteja livre
+- A Aula de Dança deve ter um instrutor responsável
